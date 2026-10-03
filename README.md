@@ -12,10 +12,11 @@ Scrapping from no longer used items.
 ---
 
 ## Harvested Inventory Overview
+<img width="1993" height="3173" alt="IMG_1989" src="https://github.com/user-attachments/assets/6d8baee8-fe82-4c8b-98ad-377ab0994a91" />
+<img width="3024" height="4032" alt="IMG_1995" src="https://github.com/user-attachments/assets/f0a8e184-d410-49db-b8dc-ebbf3025bbad" />
 
-
-*Figure 1: Final sorted harvest of actuators, mechanical linkages, and power hardware. Wires would not fit the image and were very messy.
-
+*Figure 1: Final sorted harvest of actuators, mechanical linkages, and power hardware.
+*Figure 2: Wires and the Aluminum Heatsink.
 ### Component Classification & Bill of Materials (BOM)
 
 | Category | Item Description | Quantity | Potential Application |
@@ -56,5 +57,5 @@ Scrapping from no longer used items.
 ## Key Technical Insights Learned
 1. **Wire Types matter:** Stranded wire from consumer cables is significantly better for moving joints and robotics than solid-core wire because it resists metal fatigue and snapping.
 2. **Manufacturing Fasteners:** Standard Phillips/Flatheads give way to Security Torx in consumer gaming consoles to prevent unauthorized tampering.
-3. Hand sanitizer or alcohol helps remove old glue.
+3. **Chemicals like isopropyl alochol** helps remove old glue.
 
